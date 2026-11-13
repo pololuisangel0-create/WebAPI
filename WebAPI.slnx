@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClienteWeb/ClienteWeb/ClienteWeb.csproj" Id="e212b849-47ec-4553-9822-b781211d1018" />
+  <Project Path="WebAPI/WebAPI.csproj" />
+</Solution>
